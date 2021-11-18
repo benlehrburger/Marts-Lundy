@@ -52,9 +52,9 @@ Total lifetime credit
 
 To run the classifier:
 
-> Code
-> Main
-> Predict.py
+> Code  
+> Main  
+> Predict.py  
 
 Run the program. It will prompt you for the 21 necessary inputs in the terminal. Please give all inputs as numbers (ie. no dollar signs, no strings, etc.).
 
