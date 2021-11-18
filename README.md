@@ -18,35 +18,35 @@ The data fueling answers to these questions comes from a 1.5M+ point dataset don
 
 The code consists of two main programs. First, a linear regression performed on the data to identify which features of donors are most predictive of potential major donors. Second, a neural network classifier that works at 76% accuracy. It accepts 21 features of a donor and classifies the donor into one of five classes:
 
-$0
-$1 - $999
-$1K - $4.9K
-$5K - $24.9K
-$25K+
+$0  
+$1 - $999  
+$1K - $4.9K  
+$5K - $24.9K  
+$25K+  
 
 A donor's class represents their predicted donations over the next five years. The required input features to the network are:
 
-Number of gifts in the last 5 years
-Number of gifts in the last 6-10 years
-Dollar amount of gifts in the last 10 years
-Lifetime hard commitment
-Lifetime soft commitment
-Total lifetime commitment
-School committees served on in the last 10 years
-Number of school reunions attended since graduating
-Number of sports played in school
-Number of student activities partipated in school
-Whether or not the candidate graduated with a degree
-Age
-Year of graduation
-Whether or not the candidate holds a c-level job
-Whether or not the candidate is a school alumni
-Whether or not the candidate has a school reunion in the next 5 years
-RFM score
-Number of honors graduated with
-Lifetime hard credit
-Lifetime soft credit
-Total lifetime credit
+Number of gifts in the last 5 years  
+Number of gifts in the last 6-10 years  
+Dollar amount of gifts in the last 10 years  
+Lifetime hard commitment  
+Lifetime soft commitment  
+Total lifetime commitment  
+School committees served on in the last 10 years  
+Number of school reunions attended since graduating  
+Number of sports played in school  
+Number of student activities partipated in school  
+Whether or not the candidate graduated with a degree  
+Age  
+Year of graduation  
+Whether or not the candidate holds a c-level job  
+Whether or not the candidate is a school alumni  
+Whether or not the candidate has a school reunion in the next 5 years  
+RFM score  
+Number of honors graduated with  
+Lifetime hard credit  
+Lifetime soft credit  
+Total lifetime credit  
 
 # Instructions
 
