@@ -4,7 +4,7 @@ Early in 2020, Marts & Lundy asked me to help answer the question: how can we pr
 
 The insights that I made would not have been possible without the Advizor dataset regarding philanthropy in higher education generously donated for research purposes by Doug Cogswell. This dataset included 65,000+ samples of donors with 23 features each, amassing to more than 1.5M+ data points. That data is sensitive and is not to be shared.
 
-The neural network detailed below performs at 76% accuracy and classifies donors into one of five classes, indicating the dollar amount that they are likely to give over the next five years. The regression analyses I performed also returned the five most predictive features of any donor. These two results in tandem are quite powerful and ought to inform future fundraising efforts in higher education.
+The neural network detailed below performs at 76% accuracy overall and predicts 95% of candidates' donations within $250 of their actual gift. The model classifies donors into one of five classes, indicating the dollar amount that they are likely to give over the next five years. The regression analyses I performed also returned the five most predictive features of any donor. These two results in tandem are quite powerful and ought to inform future fundraising efforts in higher education.
 
 # Description
 
