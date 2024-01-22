@@ -1,6 +1,6 @@
 # Introduction
 
-Early in 2020, Marts & Lundy asked me to help answer the question: how can we predict major donors in higher education? Over the past eight months, I’ve developed regression analyses and neural networks to work towards an answer. I am proud to say that the project was successful.
+Early in 2020, Marts & Lundy asked me to help answer the question: how can we predict major donors in higher education? Over the past eight months, I’ve developed regression analyses and neural networks to work towards an answer.
 
 The insights that I made would not have been possible without the Advizor dataset regarding philanthropy in higher education generously donated for research purposes by Doug Cogswell. This dataset included 65,000+ samples of donors with 23 features each, amassing to more than 1.5M+ data points. That data is sensitive and is not to be shared.
 
