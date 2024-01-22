@@ -1,4 +1,4 @@
-# Introduction
+# Predicting the Gift-Giving Lifecycle in Higher Education
 
 Early in 2020, Marts & Lundy asked me to help answer the question: how can we predict major donors in higher education? Over the past eight months, I’ve developed regression analyses and neural networks to work towards an answer.
 
